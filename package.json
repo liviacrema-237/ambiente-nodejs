@@ -1,0 +1,29 @@
+{
+  "name": "ambiente-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsx watch src/app.ts",
+    "build": "tsc",
+    "start": "node dist/app.ts"
+  },
+"type":"module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liviacrema-237/ambiente-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liviacrema-237/ambiente-nodejs/issues"
+  },
+  "homepage": "https://github.com/liviacrema-237/ambiente-nodejs#readme",
+  "devDependencies": {
+    "@types/node": "^26.1.2",
+    "tsx": "^4.23.1",
+    "typescript": "^7.0.2"
+  }
+}
