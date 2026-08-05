@@ -1,0 +1,27 @@
+[
+    {
+    "nome": "Show Musical",
+    "tipo": "Entretenimento ao Vivo",
+    "local_comum": "Arenas, Estádios e Casas de Shows",
+    "elementos_chave": ["Música ao vivo", "Iluminação cênica", "Palco", "Público"]
+    
+    },    
+    {
+    "nome": "Praia",
+    "tipo": "Lazer ao Ar Livre",
+    "local_comum": "Regiões Litorâneas",
+    "elementos_chave": ["Mar", "Areia", "Sol", "Atividades aquáticas"]
+    },
+    {
+    "item": "Parque Aquático",
+    "tipo": "Entretenimento",
+    "local_comum": "Áreas Abertas e Complexos Turísticos",
+    "elementos_chave": ["Tobogãs", "Piscinas de ondas", "Rios lentos", "Áreas infantis"]
+    },
+    {
+    "item": "Parque de Diversões",
+    "tipo": "Entretenimento",
+    "local_comum": "Grandes Terrenos e Centros Urbanos",
+    "elementos_chave": ["Montanhas-russas", "Roda-gigante", "Brinquedos radicais", "Barracas de jogos"]
+    }
+]

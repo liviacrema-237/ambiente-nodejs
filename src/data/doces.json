@@ -1,0 +1,26 @@
+[
+    {
+    "item": "Cookies",
+    "origem": "Estados Unidos",
+    "ingredientes_base":[ "Farinha de trigo", "Manteiga", "Açúcar mascavo", "Gotas de chocolate"],
+    "descricao": "Biscoitos crocantes por fora e macios por dentro, geralmente recheados ou aromatizados com gotas de chocolate e baunilha."
+    },
+    {
+    "item": "Fondue de Chocolate",
+    "origem": "Suíça",
+    "ingredientes_base": ["Chocolate meio amargo ou ao leite", "Creme de leite", "Frutas frescas"],
+    "descricao": "Creme denso de chocolate derretido mantido aquecido em uma combuca, servido acompanhado de pedaços de frutas, marshmallows ou biscoitos para mergulhar."
+    },
+    {
+    "item": "Crepe Doce",
+    "origem": "França",
+    "ingredientes_base": ["Farinha de trigo", "Leite", "Ovos", "Recheio doce"],
+    "descricao": "Massa fina e leve cozida na frigideira, dobrada ou enrolada com recheios como Nutella, Doce de Leite, morangos ou geleia."
+    },
+    {
+    "item": "Bolo",
+    "origem": "Egito Antigo",
+    "ingredientes_base": ["Farinha de trigo", "Açúcar", "Ovos", "Manteiga", "Fermento"],
+    "descricao": "Massa assada fofa que pode ser simples para o café da tarde ou elaborada com camadas de recheio, coberturas e decorações."
+    }
+]

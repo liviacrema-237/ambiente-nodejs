@@ -1,0 +1,27 @@
+{
+  "artistas": [
+    {
+      "nome": "Yunk Vino",
+      "pais_origem": "Brasil",
+      "estilo_musical": "trap",
+      "album_destaque": "237 e 237 deluxe"
+    },
+    {
+    "nome": "A$AP Rocky",
+    "pais_origem": "Estados Unidos","estilo_musical": "trap nacional",
+    "album_destaque": "AT.LONG.LAST.A$AP"
+    },
+    {
+    "nome": "Black Alien",
+    "pais_origem": "Brasil",
+    "estilo_musical": ["rap nacional", "boombap"],
+    "album_destaque": "Abaixo de Zero: Vol. 1"
+    },
+    {
+    "nome": "Cartel MCs",
+    "pais_origem": "Brasil",
+    "estilo_musical": "rap undergound/ hiphop",
+    "album_destaque": "Bastardos inglórios e Pulp Fiction"
+    }
+]
+}

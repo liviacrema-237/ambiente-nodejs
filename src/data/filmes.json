@@ -1,0 +1,27 @@
+[
+    {
+    "titulo": "Invocação do Mal 2",
+    "ano_lancamento": 2016,
+    "genero": ["Terror", "Sobrenatural"],
+    "sinopse": "Os investigadores paranormais Ed e Lorraine Warren viajam até o norte de Londres para ajudar uma mãe solo com quatro filhos, assombrados por uma entidade maligna em sua residência."
+    },
+    {
+    "titulo": "Nós",
+    "ano_lancamento": 2019,
+    "genero": ["Terror", "Suspense"],
+    "sinopse": "Uma família em férias na praia é confrontada e aterrorizada por copias de um  universo pararelo idênticos e malignos de si mesmos."
+    },
+    {
+    "titulo": "Halloween",
+    "ano_lancamento": 1978,
+    "direcao": "John Carpenter",
+    "genero": ["Terror", "Slasher"],
+    "sinopse": "Quinze anos após assassinar sua irmã na noite de Halloween, Michael Myers escapa do hospital psiquiátrico e retorna à sua cidade natal para perseguir um grupo de adolescentes e sua suposta tia."
+    },
+    {
+    "titulo": "Faça Ela Voltar",
+    "ano_lancamento": 2025,
+    "genero": ["Terror", "Sobrenatural"],
+    "sinopse": "Dois irmãos órfãos testemunham um ritual perturbador e aterrorizante na casa isolada de sua nova mãe adotiva."
+    }
+]
